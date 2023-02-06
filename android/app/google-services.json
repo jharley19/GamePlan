@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "79105655919",
+    "firebase_url": "https://gameplan-cd6b6-default-rtdb.firebaseio.com",
+    "project_id": "gameplan-cd6b6",
+    "storage_bucket": "gameplan-cd6b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79105655919:android:f559fc217e97ad12a9b99a",
+        "android_client_info": {
+          "package_name": "com.gameplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79105655919-ofhu5i6elmjrg855o2nrmktm8sbctotl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv1uveu5Q8Y9aHttz3KQki-JAx8feRJcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79105655919-ofhu5i6elmjrg855o2nrmktm8sbctotl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
